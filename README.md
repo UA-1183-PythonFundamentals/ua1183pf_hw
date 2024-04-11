@@ -1,7 +1,7 @@
 # ua1183pf_hw
 
 
-- lhalam - Liubomyr Halamaha
+- lhalam - Liubomyr Halamaha. 
 - Vaniawl
 - nosokvnosok
 - Ashtray001
