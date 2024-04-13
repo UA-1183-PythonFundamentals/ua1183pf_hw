@@ -10,7 +10,7 @@
 - IgorKurilov
 - Alexandr-ai
 - Burunduk9090
-- OleksandraHospodinina
+- OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
 - BirdyNel
 - ilyaparnikov
