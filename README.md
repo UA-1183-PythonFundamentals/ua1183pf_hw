@@ -4,7 +4,7 @@
 - lhalam - Liubomyr Halamaha. 
 - Vaniawl
 - nosokvnosok
-- Ashtray001
+- Ashtray001 - Yuriy SHubin
 - TheGuand
 - BohdanZhmyria
 - IgorKurilov
