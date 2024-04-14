@@ -5,7 +5,7 @@
 - Vaniawl
 - nosokvnosok
 - Ashtray001
-- TheGuand
+- TheGuand - Andrii Gumeniuk
 - BohdanZhmyria
 - IgorKurilov
 - Alexandr-ai
