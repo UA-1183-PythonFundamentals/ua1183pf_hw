@@ -7,7 +7,7 @@
 - Ashtray001
 - TheGuand - Andrii Gumeniuk
 - BohdanZhmyria
-- IgorKurilov
+- IgorKurilov Igor Kurilov
 - Alexandr-ai
 - Burunduk9090
 - OleksandraHospodinina - Oleksandra Hospodinina
