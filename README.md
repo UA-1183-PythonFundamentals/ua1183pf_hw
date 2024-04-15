@@ -5,11 +5,14 @@
 - Vaniawl
 - nosokvnosok
 - Ashtray001
-- TheGuand
+- TheGuand - Andrii Gumeniuk
 - BohdanZhmyria
-- IgorKurilov
+- IgorKurilov - Igor Kurilov
 - Alexandr-ai
 - Burunduk9090
-- OleksandraHospodinina
+- OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
 - BirdyNel
+- ilyaparnikov
+- nikvitkaua - Mykyta Paziuka
+- Yenot52 Anastasia Tebrii
