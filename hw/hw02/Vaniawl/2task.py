@@ -1,1 +1,1 @@
-print('Welcome to Vaniawl fbgf!')
+print('Welcome to Vaniawl fbgf!')ер
