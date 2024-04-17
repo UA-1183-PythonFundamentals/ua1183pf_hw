@@ -6,7 +6,7 @@
 - nosokvnosok
 - Ashtray001 - Yurii Shubin
 - TheGuand - Andrii Gumeniuk
-- BohdanZhmyria
+- BohdanZhmyria - Bohdan Zhmyria
 - IgorKurilov - Igor Kurilov
 - Alexandr-ai - Oleksandr Bodnar
 - Burunduk9090 - Sushko Taras
