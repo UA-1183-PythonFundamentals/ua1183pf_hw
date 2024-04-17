@@ -9,7 +9,7 @@
 - BohdanZhmyria
 - IgorKurilov - Igor Kurilov
 - Alexandr-ai - Oleksandr Bodnar
-- Burunduk9090
+- Burunduk9090 - Sushko Taras
 - OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
 - BirdyNel
