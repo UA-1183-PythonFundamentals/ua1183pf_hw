@@ -59,6 +59,8 @@ print(a1)
 print(sorted(a1))
 
 #3.3
+
+#1
 a = int(input("a =" ))
 b = int(input("b =" ))
 print(a, b)
@@ -66,3 +68,13 @@ a = a + b
 b = a - b
 a = a - b
 print(a, b)
+
+#2
+c = input("c is: ")
+d = input("d is: ")
+print(c, d)
+
+c = [c, d]
+d = c[0]
+c = c[1]
+print(c,d)
