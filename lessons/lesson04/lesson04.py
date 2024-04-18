@@ -180,7 +180,9 @@
 l = [
     ("load", "http://test.ua"),
     ("save", "http://test.ua", "test.txt"),
-    ("save", "http://test.ua", "out_1.txt","out_2.txt","out_3.txt")]
+    ("save", "http://test.ua", "out_1.txt","out_2.txt","out_3.txt"),
+    
+    ]
 
 for val in l:
 
@@ -195,3 +197,6 @@ for val in l:
                 print("\t", link, filename)
         case _:
             print("default:", values)
+
+    if len(val) == 2 and val[0]=="load":
+         print(f"load {val[1]=}")
