@@ -8,7 +8,7 @@
 - TheGuand - Andrii Gumeniuk
 - BohdanZhmyria
 - IgorKurilov - Igor Kurilov
-- Alexandr-ai
+- Alexandr-ai - Oleksandr Bodnar
 - Burunduk9090
 - OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
