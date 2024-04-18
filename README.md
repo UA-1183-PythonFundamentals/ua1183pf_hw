@@ -17,3 +17,4 @@
 - ilyaparnikov
 - nikvitkaua - Mykyta Paziuka
 - sanya1213 - Oher Oleksandr
+- mstrnice
