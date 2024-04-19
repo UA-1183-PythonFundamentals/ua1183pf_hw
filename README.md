@@ -1,7 +1,7 @@
 # ua1183pf_hw
 
 - lhalam - Liubomyr Halamaha.
-- Vaniawl
+- Vaniawl-Ivan Dovhosheia
 - nosokvnosok
 - Ashtray001
 - TheGuand - Andrii Gumeniuk
