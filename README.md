@@ -3,7 +3,7 @@
 
 - lhalam - Liubomyr Halamaha. 
 - Vaniawl
-- nosokvnosok
+- nosokvnosok - Oleksandr Demidov
 - Ashtray001 - Yurii Shubin
 - TheGuand - Andrii Gumeniuk
 - BohdanZhmyria - Bohdan Zhmyria
