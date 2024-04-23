@@ -1,7 +1,11 @@
 # ua1183pf_hw
 
 - lhalam - Liubomyr Halamaha.
+<<<<<<< HEAD
 - Vaniawl-Ivan Dovhosheia
+=======
+- Vaniawl
+>>>>>>> main
 - nosokvnosok
 - Ashtray001
 - TheGuand - Andrii Gumeniuk
