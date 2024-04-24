@@ -28,3 +28,34 @@ print("Number of occurrence of is: ", Zen.count("is"))
 print(Zen.upper())
 #----
 print(Zen.replace('i', '&'))
+
+# Task 3.2
+number = input("Enter a 4 digit number: ")
+if int(number) != 4:
+    print("Invalid input")
+product = int(number[0]) * int(number[1]) * int(number[2]) * int(number[3])
+print(product)
+
+reversed_string = number[::-1]
+print(reversed_string)
+
+print(sorted(number))
+
+
+# Task 3.3
+
+a = int(input("a =" ))
+b = int(input("b =" ))
+print(a, b)
+a = a + b
+b = a - b
+a = a - b
+print(a, b)
+
+
+
+
+
+
+
+
