@@ -1,8 +1,8 @@
 # ua1183pf_hw
 
-
-- lhalam - Liubomyr Halamaha. 
-- Vaniawl
+- lhalam - Liubomyr Halamaha.
+<<<<<<< HEAD
+- Vaniawl - Ivan Dovhosheia
 - nosokvnosok
 - Ashtray001
 - TheGuand - Andrii Gumeniuk
@@ -18,3 +18,4 @@
 - nikvitkaua - Mykyta Paziuka
 - sanya1213 - Oher Oleksandr
 - mstrnice
+- tklnsk
