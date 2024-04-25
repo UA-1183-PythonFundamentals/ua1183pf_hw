@@ -11,7 +11,7 @@
 - Burunduk9090
 - OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
-- BirdyNel
+- BirdyNel - Nelly Chaban
 - Yenot52 - Anastasia Tebrii
 - ilyaparnikov
 - nikvitkaua - Mykyta Paziuka
