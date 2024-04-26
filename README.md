@@ -3,6 +3,7 @@
 
 - lhalam - Liubomyr Halamaha. 
 - Vaniawl
+- tklnsk - Tetiana Kalinovska
 - nosokvnosok
 - Ashtray001
 - TheGuand - Andrii Gumeniuk
