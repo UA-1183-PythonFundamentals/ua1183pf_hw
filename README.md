@@ -1,24 +1,19 @@
 # ua1183pf_hw
 
 
-
 - lhalam - Liubomyr Halamaha. 
-- Vaniawl - Ivan Dovhosheia
+- Vaniawl
 - tklnsk - Tetiana Kalinovska
 - nosokvnosok
-- Ashtray001 - Yurii Shubin
+- Ashtray001
 - TheGuand - Andrii Gumeniuk
-- BohdanZhmyria - Bohdan Zhmyria
+- BohdanZhmyria
 - IgorKurilov - Igor Kurilov
-- Alexandr-ai - Oleksandr Bodnar
-- Burunduk9090 - Sushko Taras
+- Alexandr-ai
+- Burunduk9090
 - OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
-- BirdyNel - Nelly Chaban
-- Yenot52 - Anastasia Tebrii
+- BirdyNel
 - ilyaparnikov
 - nikvitkaua - Mykyta Paziuka
 - Yenot52 Anastasia Tebrii
-- sanya1213 - Oher Oleksandr
-- mstrnice
-
