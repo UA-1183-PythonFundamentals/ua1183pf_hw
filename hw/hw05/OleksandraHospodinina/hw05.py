@@ -1,4 +1,4 @@
-#4
+#5
 #1
 a = 0
 while a < 100:
@@ -26,8 +26,25 @@ def odd(numbers):
             return True
     return Fasle
 
-#4.1
+#5.1
 a = [11, 45, 658]
 for b in range(len(a)):
     a[b] = float(a[b])
 print(a)
+#5.2
+x = int(input("Enter a number: "))
+a, b = 0, 1
+for i in range(0, x + 1):
+    print(i, '=>', a)
+    a, b = b, a + b
+
+#5.3
+
+num = int(input("Enter a number: "))
+def factorial(num):
+    fac = 1
+    for a in range(1, num + 1):
+        fac *= a
+    return fac
+
+print(f"{num}! =", factorial(num))
