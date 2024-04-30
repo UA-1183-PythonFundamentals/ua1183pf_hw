@@ -1,8 +1,7 @@
 # ua1183pf_hw
 
-
-- lhalam - Liubomyr Halamaha. 
-- Vaniawl
+- lhalam - Liubomyr Halamaha.
+- Vaniawl - Ivan Dovhosheia
 - nosokvnosok
 - Ashtray001 - Yurii Shubin
 - TheGuand - Andrii Gumeniuk
@@ -12,7 +11,11 @@
 - Burunduk9090 - Sushko Taras
 - OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
-- BirdyNel
+- BirdyNel - Nelly Chaban
+- Yenot52 - Anastasia Tebrii
 - ilyaparnikov
 - nikvitkaua - Mykyta Paziuka
-- Yenot52 - Anastasia Tebrii
+- sanya1213 - Oher Oleksandr
+- mstrnice
+- tklnsk
+
