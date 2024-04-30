@@ -3,12 +3,12 @@
 - lhalam - Liubomyr Halamaha.
 - Vaniawl - Ivan Dovhosheia
 - nosokvnosok
-- Ashtray001
+- Ashtray001 - Yurii Shubin
 - TheGuand - Andrii Gumeniuk
-- BohdanZhmyria
+- BohdanZhmyria - Bohdan Zhmyria
 - IgorKurilov - Igor Kurilov
 - Alexandr-ai - Oleksandr Bodnar
-- Burunduk9090
+- Burunduk9090 - Sushko Taras
 - OleksandraHospodinina - Oleksandra Hospodinina
 - AnysenkoDen
 - BirdyNel - Nelly Chaban
@@ -18,3 +18,4 @@
 - sanya1213 - Oher Oleksandr
 - mstrnice
 - tklnsk
+
