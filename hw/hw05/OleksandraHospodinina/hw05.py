@@ -31,6 +31,7 @@ a = [11, 45, 658]
 for b in range(len(a)):
     a[b] = float(a[b])
 print(a)
+
 #5.2
 x = int(input("Enter a number: "))
 a, b = 0, 1
