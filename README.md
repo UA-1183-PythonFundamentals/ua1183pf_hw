@@ -2,8 +2,9 @@
 
 
 
-- lhalam - Liubomyr Halamaha.
+- lhalam - Liubomyr Halamaha. 
 - Vaniawl - Ivan Dovhosheia
+- tklnsk - Tetiana Kalinovska
 - nosokvnosok
 - Ashtray001 - Yurii Shubin
 - TheGuand - Andrii Gumeniuk
@@ -19,5 +20,3 @@
 - nikvitkaua - Mykyta Paziuka
 - sanya1213 - Oher Oleksandr
 - mstrnice
-- tklnsk
-
