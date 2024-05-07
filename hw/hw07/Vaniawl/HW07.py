@@ -59,7 +59,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-Task 7.1.3
+# Task 7.1.3
 def count_chars(string):
     count = {}
     for c in string:
