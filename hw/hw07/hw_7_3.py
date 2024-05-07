@@ -45,11 +45,13 @@ def reverse(st):
     return st
 
 
+
 #Task 6 
 def reverse_list(l):
     'return a list with the reverse order of l'
     r = list(reversed(l))
     return r
+
 
 #Task 7
 def solution(number):
@@ -60,10 +62,12 @@ def solution(number):
     multiples = filter(lambda x: x % 3 == 0 or x % 5 == 0, range(number))
     return sum(multiples)
 
+
 #Task 8
 def zero_fuel(distance_to_pump, mpg, fuel_left):
     #Happy Coding! ;)
     return True if distance_to_pump <= mpg * fuel_left else False
+
 
 #Task 9
 def are_you_playing_banjo(name):
@@ -72,17 +76,20 @@ def are_you_playing_banjo(name):
         return name + " plays banjo"
     else:
         return name + " does not play banjo"
-    
+
+
 #Task 10
 def bool_to_word(boolean):
     # TODO
     return "Yes" if boolean else "No"
+
 
 #Task 11
 def count_sheeps(sheep):
   # TODO May the force be with you
     #pass
     return sheep.count(True)
+
 
 #Task 12
 def correct_tail(body, tail):
