@@ -20,30 +20,28 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 """
-#----
-print("Number of occurrence of better: ", Zen.count("better"))
-print("Number of occurrence of never: ", Zen.count("never"))
-print("Number of occurrence of is: ", Zen.count("is"))
-#----
-print(Zen.upper())
-#----
-print(Zen.replace('i', '&'))
+print("Number of occurrence of better:", Zen.count("better"))
+print("Number of occurrence of never:", Zen.count("never"))
+print("Number of occurrence of is:", Zen.count("is"))
+
+uppercase_text = Zen.upper()
+print(uppercase_text)
+
+print (Zen.replace('i', '&'))
 
 # Task 3.2
-number = input("Enter a 4 digit number: ")
-if int(number) != 4:
-    print("Invalid input")
-product = int(number[0]) * int(number[1]) * int(number[2]) * int(number[3])
-print(product)
+num = input("Enter a 4-digit number: ")
+if len(num) == 4:
+    print(int(num[0])*int(num[1])*int(num[2])*int(num[3]))
+else:
+    print ("Invalid input")
 
-reversed_string = number[::-1]
-print(reversed_string)
+reversed_order = num[::-1]
+print(reversed_order)
 
-print(sorted(number))
-
+print(sorted(num))
 
 # Task 3.3
-
 a = int(input("a =" ))
 b = int(input("b =" ))
 print(a, b)
@@ -51,11 +49,3 @@ a = a + b
 b = a - b
 a = a - b
 print(a, b)
-
-
-
-
-
-
-
-
