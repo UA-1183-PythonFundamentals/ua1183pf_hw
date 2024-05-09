@@ -1,0 +1,64 @@
+def convert_to_float(integer_list):
+    float_list = []
+    for num in integer_list:
+        float_list.append(float(num))
+    return float_list
+
+integer_list = [1, 2, 3, 4, 5]
+
+float_list = convert_to_float(integer_list)
+
+print("Original list:", integer_list)
+print("Converted list:", float_list)
+
+
+-------------------------------
+
+
+
+def fibonacci(n):
+  if n < 0:
+    print("Invalid input. Please enter non-negative integer.")    
+
+  a, b = 0, 1 #initialize the first two Fibonacci numbers
+
+  if n >= 1:
+     print(a)
+  if n >= 2:
+     print(b)
+
+  for i in range(2, n):
+     c = a + b #calculate the next Fibonacci numbers 
+     print(c)
+     a, b = b, c
+try:    
+  n = int(input("Enter the number of terms (non-negative integer): "))
+  fibonacci(n)
+except ValueError:
+  print("Invalid input. Please enter a non-negative integer.")
+
+
+
+
+-------------------------------------------------
+
+
+def factorial(n):
+    if n < 0:
+     print("Factorial id not defined for negative numbers.")
+     return None
+    if n == 0:
+     return 1
+    elif n == 1:
+     return 1
+
+    factorial = 1
+    for i in range(2, n + 1):
+     factorial *= i
+
+    return factorial 
+
+number = 5 
+result = factorial(number)
+if result is not None:
+print(f"The factorial of {number} is {result}")
