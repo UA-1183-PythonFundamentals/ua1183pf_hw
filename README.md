@@ -13,7 +13,7 @@
 - Alexandr-ai - Oleksandr Bodnar
 - Burunduk9090 - Sushko Taras
 - OleksandraHospodinina - Oleksandra Hospodinina
-- AnysenkoDen
+- AnysenkoDen - Anysenko Denis
 - BirdyNel - Nelly Chaban
 - Yenot52 - Anastasia Tebrii
 - ilyaparnikov
