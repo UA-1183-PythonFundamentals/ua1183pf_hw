@@ -44,11 +44,11 @@ def game():
                         guess = int(input_text)
                         attempts += 1
                         if guess < TARGET_NUMBER:
-                            draw_text("Too low!", 250, 250)
+                            draw_text("The guessed number is higher!", 250, 250)
                         elif guess > TARGET_NUMBER:
-                            draw_text("Too high!", 250, 250)
+                            draw_text("the guessed number is less!", 250, 250)
                         else:
-                            draw_text("Congratulations! You guessed it!", 150, 250)
+                            draw_text("You guessed!", 150, 250)
                             pygame.display.flip()
                             pygame.time.wait(60)
                             return
