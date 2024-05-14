@@ -19,7 +19,6 @@ print(w.temperature('celsius'))  # {'temp_max': 10.5, 'temp': 9.7, 'temp_min': 9
 print(w.rain)                    # {}
 print(w.heat_index)              # None
 print(w.clouds)                  # 75
-
 import tkinter as tk
 from tkinter import font
 
@@ -57,3 +56,4 @@ lower_frame.place(relx=0.5, rely=0.25, relwidth=0.75, relheight=0.6, anchor='n')
 
 label = tk.Label(lower_frame, font=('Courier', 14))
 label.place(relx=0, rely=0, relwidth=1, relheight=1)
+
