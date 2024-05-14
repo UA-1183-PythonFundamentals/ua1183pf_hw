@@ -12,19 +12,22 @@ print("Text with 'i' replaced with '&", replaced_text)
 
 #3.2
 number = 1832
+def new_func(number):
+    product = 1
+    for digit in str(number): product *= int(digit)
+    print("Product of digits:", product)
 
-product = 1
-for digit in str(number): product *= int(digit)
-print("Product of digits:", product)
+    reversed_number = int(str(number)[::-1])
+    print("Number in reverse order:", reversed_number)
 
-reversed_number = int(str(number)[::-1])
-print("Number in reverse order:", reversed_number)
-
-sorted_digits = int(''.join(sorted(str(number))))
-print("Digits in ascending order:", sorted_digits)
+    sorted_digits = int(''.join(sorted(str(number))))
+    print("Digits in ascending order:", sorted_digits)
 
 #3.3
-first_home = "Odesa"
+    first_home = "Odesa"
+    return first_home
+
+first_home = new_func(number)
 second_home = "Kyiv"
 
 first_home  = (first_home  + second_home)
