@@ -1,13 +1,14 @@
 import requests
-from util.constants import COUNTRYAPI_KEY
+import os
 
 class Country:
-    def __init__(self, name:str):
+    def __init__(self, name: str):
         self.__name = name
+        self.api_key = os.environ.get('COUNTRYAPI_KEY')
                 
     def get_country_info(self):
         try:
-            url = f'https://countryapi.io/api/name/{self.__name}?apikey={COUNTRYAPI_KEY}'
+            url = f'https://countryapi.io/api/name/{self.__name}?apikey={self.api_key}'
             response = requests.get(url)
             data = response.json()
             
@@ -23,12 +24,12 @@ class Country:
             area = data["area"]
             timezones = ', '.join(data["timezones"])
             
-            currencies_data = data["currencies"]
-            lang_data = data["languages"]
+            currencies_dict = data["currencies"]
+            lang_dict = data["languages"]
             
             # Currencies
             currencies = []
-            for inner_dict in currencies_data.values():
+            for inner_dict in currencies_dict.values():
                 name_value = inner_dict.get('name')
                 if name_value is not None:
                     currencies.append(name_value)
@@ -36,7 +37,7 @@ class Country:
             currencies = ', '.join(currencies)
             
             # Lang
-            lang_values = list(lang_data.values())
+            lang_values = list(lang_dict.values())
             lang_string = ', '.join(lang_values)
                     
             
