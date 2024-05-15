@@ -4,13 +4,6 @@ from util.constants import COUNTRYAPI_KEY
 class Country:
     def __init__(self, name:str):
         self.__name = name
-        
-    def process_dict(self, dictionary):
-        for key, value in dictionary.items():
-            if isinstance(value, dict):
-                self.process_dict(value)
-            else:
-                return key, value
                 
     def get_country_info(self):
         try:
