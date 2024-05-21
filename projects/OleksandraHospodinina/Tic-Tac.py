@@ -6,7 +6,7 @@ import random
 class TicTac:
     def __init__(self, root):
         """
-        Initializes the TicTacToe game.
+        Initializes the TicTac game.
         :param root: The root window object of Tkinter.
         """
         self.root = root
@@ -45,7 +45,7 @@ class TicTac:
 
     def create_board(self):
         """
-        Creates the Tic-Tac-Toe game board.
+        Creates the Tic-Tac game board.
         """
         for i in range(9):
             button = tk.Button(self.root, text="", font=('normal', 20, 'normal'), height=3, width=6,
