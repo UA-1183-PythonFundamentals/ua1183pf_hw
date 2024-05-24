@@ -1,9 +1,11 @@
-def count_characters(input_string):
-    char_count = {}
-    for char in input_string:
-        char_count[char] = char_count.get(char, 0) + 1
-    return char_count
-
 input_str = "hello"
-result = count_characters(input_str)
+
+def count_letteracters(input_string):
+    letter_count = {}
+    for letter in input_string:
+        # letter_count[letter] = letter_count.get(letter, 0) + 1 
+        letter_count[letter] = input_str.count(letter)
+    return letter_count
+
+result = count_letteracters(input_str)
 print(result)
