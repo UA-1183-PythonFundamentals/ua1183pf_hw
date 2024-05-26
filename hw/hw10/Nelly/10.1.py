@@ -1,3 +1,4 @@
+# Create a polygon class and a rectangle class that inherits from the polygon class and finds the square of rectangle
 class Polygon:
     def __init__(self, num_sides):
         self.num_sides = num_sides
