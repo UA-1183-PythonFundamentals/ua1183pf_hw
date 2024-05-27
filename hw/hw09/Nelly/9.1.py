@@ -9,12 +9,12 @@ def guess_the_number():
     print("You have 10 attempts to guess the number.")
 
     for attempt in range(1, attempts + 1):
-        guess = int(input(f"Attempt {attempt}: Enter your guess: "))
+        number = int(input(f"Attempt {attempt}: Enter your number: "))
 
-        if guess < number_to_guess:
-            print("The number is higher than your guess.")
-        elif guess > number_to_guess:
-            print("The number is lower than your guess.")
+        if number < number_to_guess:
+            print("The number is higher than your number.")
+        elif number > number_to_guess:
+            print("The number is lower than your number.")
         else:
             print(f"Congratulations! You guessed the number in {attempt} attempts.")
             return   
