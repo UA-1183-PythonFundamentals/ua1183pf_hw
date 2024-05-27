@@ -100,6 +100,7 @@ def show_titles():
         "written by Igor Kurilov",
         "move paddle for player1 is W and S",
         "move paddle for player2 is up and down arrows"
+        "written by Igor Kurilov"
     ]
     
     for title in titles:
@@ -107,7 +108,8 @@ def show_titles():
         title_text = FONT.render(title, 1, WHITE)
         WIN.blit(title_text, (WIDTH//2 - title_text.get_width()//2, HEIGHT//2 - title_text.get_height()//2))
         pygame.display.update()
-        time.sleep(3)  # Display each title for 3 seconds
+        time.sleep(2)  # Display each title for 2 seconds
+
 
 def main():
     global player1_score, player2_score
