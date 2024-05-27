@@ -97,6 +97,9 @@ def show_titles():
     titles = [
         "SOFTSERVE ACADEMY PRESENT",
         "PING PONG GAME",
+        "written by Igor Kurilov",
+        "move paddle for player1 is W and S",
+        "move paddle for player2 is up and down arrows"
         "written by Igor Kurilov"
     ]
     
@@ -106,6 +109,7 @@ def show_titles():
         WIN.blit(title_text, (WIDTH//2 - title_text.get_width()//2, HEIGHT//2 - title_text.get_height()//2))
         pygame.display.update()
         time.sleep(2)  # Display each title for 2 seconds
+
 
 def main():
     global player1_score, player2_score
