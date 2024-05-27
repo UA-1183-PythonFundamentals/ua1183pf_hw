@@ -9,3 +9,4 @@ def count_letteracters(input_string):
 
 result = count_letteracters(input_str)
 print(result)
+
