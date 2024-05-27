@@ -11,3 +11,6 @@ class Rectangle(Polygon):
 
     def area(self):
         return self.width * self.height
+    
+rectangle = Rectangle(2, 5)
+print(rectangle.area())
