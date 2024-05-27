@@ -17,4 +17,10 @@ class Human:
     
     @staticmethod
     def arbitrary_message():
-        return "This is an arbitrary message."
+        return "This is an arbitrary message"
+
+user1 = Human("Hanna")
+print(user1.welcome_message())
+print(user1.get_species())
+print(user1.arbitrary_message())
+
