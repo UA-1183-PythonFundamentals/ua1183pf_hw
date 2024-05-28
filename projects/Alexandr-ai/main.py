@@ -39,7 +39,7 @@ def save_binance_symbols():
         session.add(exchange_symbol)
 
     session.commit()
-    print("Binance symbols saved.")
+    print("Binance symbols saved")
 
 def save_gate_symbols():
     """отримую і записую в SQL Alchemy дані валютних пар з біржі Gate"""
@@ -56,7 +56,7 @@ def save_gate_symbols():
         session.add(exchange_symbol)
 
     session.commit()
-    print("Gate symbols saved.")
+    print("Gate symbols saved")
 
 def save_mexc_symbols():
     """отримую і записую в SQL Alchemy дані валютних пар з біржі Mexc"""
@@ -73,7 +73,7 @@ def save_mexc_symbols():
         session.add(exchange_symbol)
 
     session.commit()
-    print("Mexc symbols saved.")
+    print("Mexc symbols saved")
 
 def print_symbols():
     symbols = session.query(ExchangeSymbol).all()

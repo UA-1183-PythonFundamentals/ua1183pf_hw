@@ -70,7 +70,6 @@ def load_Binance():
 
 def while_binance():
     global setting
-
     while True: 
         load_Binance()
         time.sleep(setting["refreshTime"])
@@ -103,7 +102,6 @@ def load_Gate():
 
 def while_Gate():
     global setting
-
     while True: 
         load_Gate()
         time.sleep(setting["refreshTime"])
@@ -131,7 +129,6 @@ def load_Mexc():
 
 def while_Mexc():
     global setting
-
     while True: 
         load_Mexc()
         time.sleep(setting["refreshTime"])
@@ -250,7 +247,6 @@ def load_Bitstamp():
 
 def while_Bitstamp():
     global setting
-
     while True: 
         load_Bitstamp()
         time.sleep(setting["refreshTime"])
