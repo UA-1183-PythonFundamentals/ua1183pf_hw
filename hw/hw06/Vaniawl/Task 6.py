@@ -11,8 +11,8 @@
 
 # Task 6.2
 login = input("Enter your login: ")
-attempts_for_login = 3
-attempts_for_password = 3
+attempts_for_login = 2
+attempts_for_password = 2
 password = "qwerty"
 
 while attempts_for_login > 0:
