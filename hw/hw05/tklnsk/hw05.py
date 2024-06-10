@@ -32,10 +32,10 @@
 
 
 
+counter = 5
+def my_func():
+    counter=8
+    print (counter)
 
-sampleList = [10, 20, 30, 40, 50]
-sampleList.append(60)
-print(sampleList)
-
-sampleList.append(60)
-print(sampleList)
+my_func()
+print(counter)

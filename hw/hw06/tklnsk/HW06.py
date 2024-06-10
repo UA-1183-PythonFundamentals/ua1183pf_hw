@@ -9,7 +9,6 @@ print(odd_numbers_div_3)
 numbers_not_div_2_3 = [num for num in range (1, 101) if num % 3 != 0 and num % 2!= 0]
 print(numbers_not_div_2_3)
 
-
 def login():
     correct_username = "user123"
     correct_password = "password123"
